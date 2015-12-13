@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * module config
+ *
+ * @category   Magebrew
+ * @author     Magebrew <magebrew.com>
+ */
+-->
+<config>
+    <modules>
+        <Magebrew_SetImage>
+            <version>0.0.1</version>
+        </Magebrew_SetImage>
+    </modules>
+    <global>
+        <models>
+            <magebrew_setimage>
+                <class>Magebrew_SetImage_Model</class>
+            </magebrew_setimage>
+        </models>
+    </global>
+</config>

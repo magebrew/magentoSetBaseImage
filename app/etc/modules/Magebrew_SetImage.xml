@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Magebrew_SetImage>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </Magebrew_SetImage>
+    </modules>
+</config>
